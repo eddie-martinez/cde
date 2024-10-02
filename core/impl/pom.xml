@@ -30,10 +30,10 @@
       <groupId>commons-jxpath</groupId>
       <artifactId>commons-jxpath</artifactId>
     </dependency>
-    <dependency>
-      <groupId>jdom</groupId>
-      <artifactId>jdom</artifactId>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>jdom</groupId>-->
+<!--      <artifactId>jdom</artifactId>-->
+<!--    </dependency>-->
     <dependency>
       <groupId>commons-logging</groupId>
       <artifactId>commons-logging</artifactId>
